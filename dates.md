@@ -11,4 +11,4 @@ permalink: /dates/
 - Early registration deadline: 15 April 2024
 - Conference dates: 17-19 June 2024
 
-![Aracahon](/assets/img/arcachon.jpg)
+![Arcachon](/assets/img/arcachon.jpg)
