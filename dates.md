@@ -10,3 +10,5 @@ permalink: /dates/
 - Notification of acceptance: 15 March  2024
 - Early registration deadline: 15 April 2024
 - Conference dates: 17-19 June 2024
+
+![Aracahon](/assets/img/arcachon.jpg)
