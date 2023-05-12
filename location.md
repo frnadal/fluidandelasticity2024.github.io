@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Location
-permalink: /program/
+permalink: /location/
 ---
 
 # Location
