@@ -16,7 +16,7 @@ permalink: /program/
 ## Organizers
 - Thomas Bickel (Univ Bordeaux, FR)
 - Christophe Eloy (IRPHE, Centrale Méditerranée, FR)
- - Eric Lauga (DAMTP, Univ of Cambridge, UK)
+- Eric Lauga (DAMTP, Univ of Cambridge, UK)
 - Sébastien Michelin (École Polytechnique, FR)
 - François Nadal (CEA Bordeaux, FR)
 
