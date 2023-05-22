@@ -7,7 +7,7 @@ permalink: /
 # Fluid and Elasticity 2024
 ## Arcachon, France, 17 – 19 juin 2024
 
-## Objective
+## Objectives
 
 The objective of the conference is to bring together researchers of different communities (applied mathematics, biomechanics, fluid mechanics, physics) working on fundamental problems involving coupling between a fluid and a deformable body.
 
