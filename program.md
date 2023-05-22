@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-# Program
+# Preliminary program
 
 ## Invited speakers
 - Anne-Laure Biance (ILM Lyon, FR)
